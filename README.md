@@ -23,7 +23,7 @@ os.system('shutdown /t')  # :)
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=E1E31D">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visua%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
     
@@ -31,7 +31,7 @@ os.system('shutdown /t')  # :)
 
 <h3 align="center">Social</h3>
 <div align="center">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=%3C%2F%3E%20Rinny%20%3E.%3C%236777">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=%40scpbill">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&label=%40scpbill">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white&label=%40scpbill">
     <img alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-404040.svg?style=for-the-badge&logo=epicgames&logoColor=white&label=%40scpbill">
