@@ -15,6 +15,7 @@ os.system('shutdown /t')  # :)
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23101010.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=black">
     
 </div>
 
